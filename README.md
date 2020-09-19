@@ -10,6 +10,12 @@ CakePHP server side adapter for [Inertia.js](https://inertiajs.com/) to build si
 
 ## Installation
 
+0. New install and Create Project for CakePHP with [composer](https://getcomposer.org)
+
+    ```bash
+    composer create-project --prefer-dist cakephp/app:^3.9
+    ```
+
 1. Add this plugin to your application with [composer](https://getcomposer.org)
 
     ```bash
